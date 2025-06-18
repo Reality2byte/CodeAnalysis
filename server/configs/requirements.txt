@@ -1,6 +1,6 @@
 # All server requirements
 # server deploy
-gunicorn==22.0.0
+gunicorn==23.0.0
 
 # for django
 Django==3.2.25
@@ -9,12 +9,12 @@ Django==3.2.25
 pymysql==1.1.1
 
 # for rest api
-djangorestframework==3.14.0
+djangorestframework==3.15.2
 django-filter==2.4.0
 django-import-export==2.5.0
 django-cors-headers==3.7.0
 django-widget-tweaks==1.4.8
-Jinja2==3.1.4
+Jinja2==3.1.6
 markupsafe==2.0.1
 coreapi==2.3.3
 Markdown==3.3.4
@@ -37,14 +37,14 @@ celery-redbeat==2.0.0
 django-prometheus==2.0.0
 
 # for login
-djangorestframework-simplejwt==5.1.0
+djangorestframework-simplejwt==5.4.0
 PyJWT==2.4.0
 
 # for password
 pyaes==1.6.1
 rsa==4.7.2
 pycryptodome==3.19.1
-cryptography==43.0.1
+cryptography==44.0.1
 PyJWT==2.4.0
 
 # for storage sdk
