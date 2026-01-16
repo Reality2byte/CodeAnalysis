@@ -22,11 +22,11 @@ rsa==4.7.2
 django-guardian==2.3.0
 
 # for django template
-Jinja2==3.1.4
+Jinja2==3.1.6
 markupsafe==2.0.1
 
 # for rest api
-djangorestframework==3.14.0
+djangorestframework==3.15.2
 coreapi==2.3.3
 Markdown==3.3.4
 django-cors-headers==3.7.0
@@ -36,7 +36,7 @@ Pygments==2.15.0
 drf-yasg==1.21.5
 
 # for file upload and download
-urllib3==1.26.19
+urllib3==2.5.0
 
 django-filter==2.4.0
 
